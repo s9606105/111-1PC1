@@ -20,7 +20,7 @@
 4. 將answer.md使用winrar加密打包，請自己記住密碼，
 並於VS community IDE內的「**方案總管**」刪除answer.md檔案
 5. 將專案執行git add、commit、push至github後，並於
-[google sheet(點我)](#)中找尋相對應之試算表，
+[google sheet(點我)](https://docs.google.com/spreadsheets/d/1x_GfVISrublmnrn1S43wtEt_XPEKV2AqirTlMZPLCK4/edit#gid=345458270)中找尋相對應之試算表，
 並於該位同學位置註記同學之倉庫的url
 
 >該次作業完成預計所需時間 (實作與文件撰寫所需要完成時間) 
